@@ -17,12 +17,13 @@ Module mainFile
             Console.WriteLine("Logging in as {0}...", username)
             Try
                 loginSession = User.Login(username, password)
+                Console.WriteLine("Login OK")
             Catch ex As Exception
                 Throw New Exception("I couldn't login with the credentials you specified. Fix them in the config file then retry")
             End Try
 
             While True
-
+                Console.WriteLine("Loading /about/unmoderated...")
                 Dim unmoderated As PostListing = api.Sub.getUnmoderated(loginSession, targetSubreddit)
 
                 If Not unmoderated.ModHash.Length > 2 Then
@@ -42,7 +43,9 @@ Module mainFile
                     Next
                 Next
 
-                Threading.Thread.Sleep(1000 * interval)
+                Console.WriteLine("End of queue. Sleeping for {0} seconds.", interval / 1000)
+                Console.WriteLine()
+                Threading.Thread.Sleep(interval)
             End While
         Catch ex As Exception
             Console.WriteLine("The program has crashed. The exception was:")
