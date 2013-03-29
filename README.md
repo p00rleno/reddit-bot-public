@@ -23,3 +23,5 @@ Once you've downloaded it, there are a couple things to do.
 3) If using replyWithComment, put the reddit markup in ffReply.ini
 	-This exact markup will be posted as a comment to any removed threads.
 4) If you manage to break it, pm /u/p00rleno and I'll try to fix it. Or fix it yourself and tell me how. Either way is cool with me
+
+I'm not sure how this will work in the long term. If anyone uses it for an extended period of time let me know how it works.
