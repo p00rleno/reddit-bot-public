@@ -87,6 +87,7 @@ namespace com.reddit.api
             request.ServicePoint.ConnectionLimit = 100;
             request.Timeout = RequestTimeout;
             request.Method = Method;
+            request.UserAgent = "Reddit FireFighter bot by p00rleno";
 
             if (request is HttpWebRequest && !string.IsNullOrEmpty(Cookie))
             {                
