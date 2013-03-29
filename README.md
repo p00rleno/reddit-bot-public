@@ -45,7 +45,7 @@ I'm not sure how this will work in the long term. If anyone uses it for an exten
 Copyright & License
 ---------------------
 
-Copyright 2011 PressF12 Pty Ltd
+Copyright 2013 p00rleno
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this work except in compliance with the License.
