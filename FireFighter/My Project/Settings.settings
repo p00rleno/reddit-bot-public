@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="markAsSpam" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="searchSelfText" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="replyWithComment" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="sleepDuration" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="targetSubreddit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">leagueoflegends</Value>
+    </Setting>
+    <Setting Name="username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yourUsernameHere</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yourPasswordHere</Value>
+    </Setting>
+    <Setting Name="regexListFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ffRegex.ini</Value>
+    </Setting>
+    <Setting Name="replyMarkupFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ffReply.ini</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
