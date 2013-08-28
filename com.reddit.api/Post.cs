@@ -278,7 +278,8 @@ namespace com.reddit.api
             var request = new Request
             {
                 Url = "http://www.reddit.com/comments/" + id + ".json",
-                Cookie = session.Cookie
+                Cookie = session.Cookie,
+                Method = "GET"
             };
 
             var json = string.Empty;

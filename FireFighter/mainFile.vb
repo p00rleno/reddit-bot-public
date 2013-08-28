@@ -17,7 +17,6 @@ Module mainFile
             Console.WriteLine("Logging in as {0}...", username)
             Try
                 loginSession = User.Login(username, password)
-
             Catch ex As Exception
                 Throw New Exception("I couldn't login with the credentials you specified. Fix them in the config file then retry")
             End Try

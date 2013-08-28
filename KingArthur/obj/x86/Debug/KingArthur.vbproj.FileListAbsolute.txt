@@ -1,0 +1,14 @@
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\Debug\KingArthur.exe.config
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\Debug\KingArthur.exe
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\Debug\KingArthur.pdb
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\Debug\KingArthur.xml
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\Debug\com.reddit.api.dll
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\Debug\NSoup.dll
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\Debug\com.reddit.api.pdb
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\obj\x86\Debug\KingArthur.vbprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\obj\x86\Debug\KingArthur.Resources.resources
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\obj\x86\Debug\KingArthur.vbproj.GenerateResource.Cache
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\obj\x86\Debug\KingArthur.exe
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\obj\x86\Debug\KingArthur.xml
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\obj\x86\Debug\KingArthur.pdb
