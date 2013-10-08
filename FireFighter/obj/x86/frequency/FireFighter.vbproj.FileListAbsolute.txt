@@ -1,0 +1,16 @@
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\bin\x86\frequency\FireFighter.exe.config
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\bin\x86\frequency\ffRegex.ini
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\bin\x86\frequency\ffReply.ini
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\bin\x86\frequency\FireFighter.exe
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\bin\x86\frequency\FireFighter.pdb
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\bin\x86\frequency\FireFighter.xml
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\bin\x86\frequency\com.reddit.api.dll
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\bin\x86\frequency\Newtonsoft.Json.dll
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\bin\x86\frequency\NSoup.dll
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\bin\x86\frequency\com.reddit.api.pdb
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\obj\x86\frequency\FireFighter.vbprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\obj\x86\frequency\FireFighter.Resources.resources
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\obj\x86\frequency\FireFighter.vbproj.GenerateResource.Cache
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\obj\x86\frequency\FireFighter.exe
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\obj\x86\frequency\FireFighter.xml
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\obj\x86\frequency\FireFighter.pdb

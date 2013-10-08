@@ -8,14 +8,8 @@
     <Setting Name="searchSelfText" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">False</Value>
     </Setting>
-    <Setting Name="replyWithComment" Type="System.Boolean" Scope="User">
-      <Value Profile="(Default)">False</Value>
-    </Setting>
     <Setting Name="sleepDuration" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">15</Value>
-    </Setting>
-    <Setting Name="targetSubreddit" Type="System.String" Scope="User">
-      <Value Profile="(Default)">leagueoflegends</Value>
     </Setting>
     <Setting Name="username" Type="System.String" Scope="User">
       <Value Profile="(Default)">yourUsernameHere</Value>
@@ -28,6 +22,18 @@
     </Setting>
     <Setting Name="replyMarkupFile" Type="System.String" Scope="User">
       <Value Profile="(Default)">ffReply.ini</Value>
+    </Setting>
+    <Setting Name="postLimitCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="postLimitTimer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">120</Value>
+    </Setting>
+    <Setting Name="targetSubreddit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yourSubredditHere</Value>
+    </Setting>
+    <Setting Name="replyWithComment" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
     </Setting>
   </Settings>
 </SettingsFile>

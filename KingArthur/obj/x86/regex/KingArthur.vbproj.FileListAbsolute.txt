@@ -1,0 +1,13 @@
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\x86\regex\KingArthur.exe.config
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\x86\regex\KingArthur.exe
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\x86\regex\KingArthur.pdb
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\x86\regex\KingArthur.xml
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\x86\regex\com.reddit.api.dll
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\x86\regex\Newtonsoft.Json.dll
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\x86\regex\NSoup.dll
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\x86\regex\com.reddit.api.pdb
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\obj\x86\regex\KingArthur.Resources.resources
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\obj\x86\regex\KingArthur.vbproj.GenerateResource.Cache
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\obj\x86\regex\KingArthur.exe
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\obj\x86\regex\KingArthur.xml
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\obj\x86\regex\KingArthur.pdb

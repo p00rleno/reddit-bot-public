@@ -608,5 +608,21 @@ namespace com.reddit.api
 
         #endregion
 
+        public override bool Equals(Object obj)
+        {
+            // Check for null values and compare run-time types.
+            if (obj == null || GetType() != obj.GetType())
+                return false;
+
+            Post p = (Post)obj;
+            return p.ID == this.ID;
+        }
+        public override int GetHashCode()
+        {
+            return 1;
+        }
+
     }
+
+
 }

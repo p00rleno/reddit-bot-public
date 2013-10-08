@@ -1,0 +1,14 @@
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\x86\frequency\KingArthur.exe.config
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\x86\frequency\KingArthur.exe
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\x86\frequency\KingArthur.pdb
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\x86\frequency\KingArthur.xml
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\x86\frequency\com.reddit.api.dll
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\x86\frequency\Newtonsoft.Json.dll
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\x86\frequency\NSoup.dll
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\bin\x86\frequency\com.reddit.api.pdb
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\obj\x86\frequency\KingArthur.Resources.resources
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\obj\x86\frequency\KingArthur.vbproj.GenerateResource.Cache
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\obj\x86\frequency\KingArthur.exe
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\obj\x86\frequency\KingArthur.xml
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\obj\x86\frequency\KingArthur.pdb
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\KingArthur\obj\x86\frequency\KingArthur.vbprojResolveAssemblyReference.cache

@@ -80,18 +80,6 @@ Namespace My
         
         <Global.System.Configuration.UserScopedSettingAttribute(),  _
          Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("False")>  _
-        Public Property replyWithComment() As Boolean
-            Get
-                Return CType(Me("replyWithComment"),Boolean)
-            End Get
-            Set
-                Me("replyWithComment") = value
-            End Set
-        End Property
-        
-        <Global.System.Configuration.UserScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
          Global.System.Configuration.DefaultSettingValueAttribute("15")>  _
         Public Property sleepDuration() As Integer
             Get
@@ -99,18 +87,6 @@ Namespace My
             End Get
             Set
                 Me("sleepDuration") = value
-            End Set
-        End Property
-        
-        <Global.System.Configuration.UserScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("leagueoflegends")>  _
-        Public Property targetSubreddit() As String
-            Get
-                Return CType(Me("targetSubreddit"),String)
-            End Get
-            Set
-                Me("targetSubreddit") = value
             End Set
         End Property
         
@@ -159,6 +135,54 @@ Namespace My
             End Get
             Set
                 Me("replyMarkupFile") = value
+            End Set
+        End Property
+        
+        <Global.System.Configuration.UserScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("2")>  _
+        Public Property postLimitCount() As Integer
+            Get
+                Return CType(Me("postLimitCount"),Integer)
+            End Get
+            Set
+                Me("postLimitCount") = value
+            End Set
+        End Property
+        
+        <Global.System.Configuration.UserScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("120")>  _
+        Public Property postLimitTimer() As Integer
+            Get
+                Return CType(Me("postLimitTimer"),Integer)
+            End Get
+            Set
+                Me("postLimitTimer") = value
+            End Set
+        End Property
+        
+        <Global.System.Configuration.UserScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("yourSubredditHere")>  _
+        Public Property targetSubreddit() As String
+            Get
+                Return CType(Me("targetSubreddit"),String)
+            End Get
+            Set
+                Me("targetSubreddit") = value
+            End Set
+        End Property
+        
+        <Global.System.Configuration.UserScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("True")>  _
+        Public Property replyWithComment() As Boolean
+            Get
+                Return CType(Me("replyWithComment"),Boolean)
+            End Get
+            Set
+                Me("replyWithComment") = value
             End Set
         End Property
     End Class

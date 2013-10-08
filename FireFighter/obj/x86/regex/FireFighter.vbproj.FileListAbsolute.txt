@@ -1,0 +1,16 @@
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\bin\x86\regex\FireFighter.exe.config
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\bin\x86\regex\ffRegex.ini
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\bin\x86\regex\ffReply.ini
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\bin\x86\regex\FireFighter.exe
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\bin\x86\regex\FireFighter.pdb
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\bin\x86\regex\FireFighter.xml
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\bin\x86\regex\com.reddit.api.dll
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\bin\x86\regex\Newtonsoft.Json.dll
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\bin\x86\regex\NSoup.dll
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\bin\x86\regex\com.reddit.api.pdb
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\obj\x86\regex\FireFighter.vbprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\obj\x86\regex\FireFighter.Resources.resources
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\obj\x86\regex\FireFighter.vbproj.GenerateResource.Cache
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\obj\x86\regex\FireFighter.exe
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\obj\x86\regex\FireFighter.xml
+C:\Users\Andy\Documents\GitHub\reddit-bot-public\FireFighter\obj\x86\regex\FireFighter.pdb
